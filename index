@@ -1,0 +1,38 @@
+<html>
+<body>
+
+<h1>FOTO DE KOALA</h1>
+
+
+
+
+<img src="https://cdn.pixabay.com/photo/2015/02/09/20/03/koala-630117__340.jpg"/>
+
+
+<h1>FONDO</h1>
+
+<img src="FONDO5.jpg">
+
+
+<h1>PAGINA DE FACEBOOK</h1>
+
+
+<a href="https://www.facebook.com"> facebook.com! </a>
+
+<h1>VIDEO</h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/10EX-_h4pYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h1>MAPA MALECON DE VERACRUZ</h1>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RzqXFeN2-ROYffh8yJMwJXxbSBZDPr2W&ehbc=2E312F" width="640" height="480"></iframe>
+
+<h1>BOTON DE FACEBOOK (ME GUSTA)</h1>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="tuAoiDC3"></script>
+
+<div class="fb-like" data-href="https://www.facebook.com/LuisitoComunica" data-width="" data-layout="standard" data-action="like" data-size="large" data-share="false"></div>
+
+</body>
+</html>
